@@ -10,7 +10,34 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8a098f4-f272-4b7b-9c63-816f2e55952d" name="Default Changelist" comment="" />
+    <list default="true" id="f8a098f4-f272-4b7b-9c63-816f2e55952d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Superhero_Tracker_Basic_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superhero_Tracker_Basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Superhero-Tracker-Basic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kevin_Tang_301357455_Assignment1/ca/sfu/cmpt213/assignment1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kevin_Tang_301357455_Assignment1/ca/sfu/cmpt213/assignment1/Menus/AddHeroMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kevin_Tang_301357455_Assignment1/ca/sfu/cmpt213/assignment1/Menus/MainMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kevin_Tang_301357455_Assignment1/ca/sfu/cmpt213/assignment1/Menus/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kevin_Tang_301357455_Assignment1/ca/sfu/cmpt213/assignment1/Menus/RemoveHeroMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kevin_Tang_301357455_Assignment1/ca/sfu/cmpt213/assignment1/Menus/UpdateHeroMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kevin_Tang_301357455_Assignment1/ca/sfu/cmpt213/assignment1/Operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kevin_Tang_301357455_Assignment1/ca/sfu/cmpt213/assignment1/Saves.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kevin_Tang_301357455_Assignment1/ca/sfu/cmpt213/assignment1/SavesObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kevin_Tang_301357455_Assignment1/ca/sfu/cmpt213/assignment1/Superhero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Superhero Tracker/ca/sfu/cmpt213/assignment1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Superhero Tracker/ca/sfu/cmpt213/assignment1/Menus/AddHeroMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Superhero Tracker/ca/sfu/cmpt213/assignment1/Menus/MainMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Superhero Tracker/ca/sfu/cmpt213/assignment1/Menus/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Superhero Tracker/ca/sfu/cmpt213/assignment1/Menus/RemoveHeroMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Superhero Tracker/ca/sfu/cmpt213/assignment1/Menus/UpdateHeroMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Superhero Tracker/ca/sfu/cmpt213/assignment1/Operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Superhero Tracker/ca/sfu/cmpt213/assignment1/SavesObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Superhero Tracker/ca/sfu/cmpt213/assignment1/Superhero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/sfu/cmpt213/assignment1/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/sfu/cmpt213/assignment1/Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/sfu/cmpt213/assignment1/Superhero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/sfu/cmpt213/assignment1/Superhero.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,8 +67,9 @@
     <property name="Repository.Attach.Sources" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -62,7 +90,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ca.sfu.cmpt213.assignment1.Main" />
-      <module name="Superhero_Tracker_Basic" />
+      <module name="Superhero-Tracker-Basic" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -98,6 +126,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -129,25 +158,63 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="526" y="262" key="Github.ShareDialog" timestamp="1593482341619">
+    <state x="412" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1597965905619">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="412" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1360.728@0.0.1360.728" timestamp="1597965905619" />
+    <state x="461" y="119" key="FileChooserDialogImpl" timestamp="1597965960377">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="461" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1597965960377" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593483539868" />
+    <state x="526" y="262" key="Github.ShareDialog" timestamp="1593482573897">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="526" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1593482341619" />
-    <state x="263" y="62" key="Github.UntrackedFilesDialog" timestamp="1593481597267">
+    <state x="526" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1593482573897" />
+    <state x="263" y="62" key="Github.UntrackedFilesDialog" timestamp="1593482578601">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="263" y="62" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1593481597266" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1593482354326">
+    <state x="263" y="62" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1593482578601" />
+    <state width="1317" height="178" key="GridCell.Tab.0.bottom" timestamp="1597966183639">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="178" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1597966183639" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593483337619" />
+    <state width="1317" height="178" key="GridCell.Tab.0.center" timestamp="1597966183639">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="178" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1597966183639" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593483337619" />
+    <state width="1317" height="178" key="GridCell.Tab.0.left" timestamp="1597966183639">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="178" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1597966183639" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593483337618" />
+    <state width="1317" height="178" key="GridCell.Tab.0.right" timestamp="1597966183639">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="178" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1597966183639" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593483337619" />
+    <state x="162" y="0" key="SettingsEditor" timestamp="1597966342876">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="162" y="0" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1597966342876" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593483760134" />
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593482452434">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593482354326" />
-    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593481671024">
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1593482452434" />
+    <state x="433" y="265" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1593482473107">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1593481671024" />
+    <state x="433" y="265" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1593482473107" />
     <state x="319" y="258" key="git4idea.ui.GitResetDialog" timestamp="1593482249700">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="319" y="258" key="git4idea.ui.GitResetDialog/0.0.1366.728@0.0.1366.728" timestamp="1593482249700" />
+    <state x="65" y="0" key="new project wizard" timestamp="1593482868976">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1593482868976" />
   </component>
 </project>

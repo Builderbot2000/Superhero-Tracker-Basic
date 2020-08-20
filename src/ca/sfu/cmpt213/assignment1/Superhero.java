@@ -22,66 +22,34 @@ public class Superhero {
         this.civiliansSaved = civiliansSaved;
     }
 
-    /**
-     * Getter method for name field.
-     * @return Name field as a string.
-     */
     String getName() {
         return name;
     }
 
-    /**
-     * Setter method for name field
-     * @param name Name field as a string.
-     */
     public void setName(String name) {
         this.name = name;
     }
 
-    /**
-     * Getter method for superpower field.
-     * @return Superpower field as a string.
-     */
     String getSuperpower() {
         return superpower;
     }
 
-    /**
-     * Setter method for superpower field.
-     * @param superpower Superpower field as a string.
-     */
     public void setSuperpower(String superpower) {
         this.superpower = superpower;
     }
 
-    /**
-     * Getter method for height field.
-     * @return Height field as a double value.
-     */
     double getHeight() {
         return height;
     }
 
-    /**
-     * Setter method for height field.
-     * @param height Height field as a double value.
-     */
     public void setHeight(double height) {
         this.height = height;
     }
 
-    /**
-     * Getter method for civiliansSaved field.
-     * @return civiliansSaved field as an integer.
-     */
     int getCiviliansSaved() {
         return civiliansSaved;
     }
 
-    /**
-     * Setter method for civiliansSaved field.
-     * @param civiliansSaved civiliansSaved field as an integer.
-     */
     public void setCiviliansSaved(int civiliansSaved) {
         this.civiliansSaved = civiliansSaved;
     }

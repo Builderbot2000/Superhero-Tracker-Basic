@@ -37,7 +37,7 @@ public class Operator {
             JsonElement savesElement = JsonParser.parseReader(new FileReader(file));
             loadedData = gson.fromJson(savesElement.getAsJsonObject(), SavesObject.class);
         } catch (FileNotFoundException exc) {
-            loadedData = new SavesObject(new ArrayList<Superhero>(0));
+            loadedData = new SavesObject(new ArrayList<>(0));
         }
     }
 
